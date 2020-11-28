@@ -78,6 +78,7 @@
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="brokenlab" />
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="brokenlab" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="brokenlab" />
+  <project path="packages/apps/OmniJaws" name="packages_apps_OmniJaws" remote="brokenlab" />
   <project path="packages/apps/Phonograph" name="packages_apps_Phonograph" remote="bootleggers" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="brokenlab" />
   <project path="packages/apps/SimIcons" name="simrat39/icon-pack" remote="github" revision="master" />
