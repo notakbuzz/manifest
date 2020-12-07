@@ -20,6 +20,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
+    <remote name="cesium"
+          fetch="https://github.com/CesiumOS-org"
+          revision="eleven" />
+  
   <!-- General -->
   <project path="manifest" name="manifest" remote="brokenlab" />
   <project path="bionic" name="bionic" remote="brokenlab" />
@@ -86,6 +90,7 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="brokenlab" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="brokenlab" />
   <project path="packages/overlays/Shishufied" name="packages_overlays_Shishufied" remote="brokenlab" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="cesium" />
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="brokenlab" />
